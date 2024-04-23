@@ -345,8 +345,12 @@
     margin-bottom: 30px;
   }
   
-  .hero-banner { display: none; }
-  
+  /* .hero-banner { 
+    border: 1px solid var(--white);
+    border-radius: var(--radius-18);
+    padding: 10px;
+    box-shadow: var(--shadow-1); }
+   */
   .hero-form {
     background: var(--gradient);
     border: 1px solid var(--white);
